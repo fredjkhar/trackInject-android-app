@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/setTimeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_animation"
+    tools:context=".medicine.SetTimeActivity">
+
+    <TextView
+        android:id="@+id/medicineNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/alegreya_sans_sc_light"
+        android:text=""
+        android:textColor="#272932"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/addTimesButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:minHeight="50dp"
+        android:minWidth="150dp"
+        android:alpha="0.7"
+        android:background="@drawable/layout_edit_text_1"
+        android:fontFamily="@font/alegreya_sans_sc_light"
+        android:text="set time"
+        android:textAllCaps="false"
+        android:textColor="#272932"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/medicineNameTextView" />
+
+    <ListView
+        android:id="@+id/selectedTimesListView"
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/addTimesButton" />
+
+    <TextView
+        android:id="@+id/selectDays"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="select days"
+        android:fontFamily="@font/alegreya_sans_sc_light"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:textColor="#272932"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/selectedTimesListView" />
+
+    <androidx.gridlayout.widget.GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="340dp"
+        android:layout_height="37dp"
+        android:layout_marginTop="5dp"
+        app:columnCount="4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/selectDays"
+        app:rowCount="1">
+
+        <ToggleButton
+            android:id="@+id/mondayToggleButton"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginEnd="2dp"
+            android:alpha="0.7"
+            android:background="@drawable/toggle_button"
+            android:fontFamily="@font/alegreya_sans_sc_light"
+            android:textAllCaps="false"
+            android:textOff="mon"
+            android:textOn="mon"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <ToggleButton
+            android:id="@+id/tuesdayToggleButton"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
+            android:alpha="0.7"
+            android:background="@drawable/toggle_button"
+            android:fontFamily="@font/alegreya_sans_sc_light"
+            android:textAllCaps="false"
+            android:textOff="tue"
+            android:textOn="tue"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <ToggleButton
+            android:id="@+id/wednesdayToggleButton"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
+            android:alpha="0.7"
+            android:background="@drawable/toggle_button"
+            android:fontFamily="@font/alegreya_sans_sc_light"
+            android:textAllCaps="false"
+            android:textOff="wen"
+            android:textOn="wen"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <ToggleButton
+            android:id="@+id/thursdayToggleButton"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
+            android:alpha="0.7"
+            android:background="@drawable/toggle_button"
+            android:fontFamily="@font/alegreya_sans_sc_light"
+            android:textAllCaps="false"
+            android:textOff="thu"
+            android:textOn="thu"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+
+    </androidx.gridlayout.widget.GridLayout>
+
+    <androidx.gridlayout.widget.GridLayout
+        android:id="@+id/gridLayout2"
+        android:layout_width="260dp"
+        android:layout_height="37dp"
+        android:layout_marginTop="5dp"
+        app:columnCount="3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gridLayout"
+        app:rowCount="1">
+
+        <ToggleButton
+            android:id="@+id/fridayToggleButton"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
+            android:alpha="0.7"
+            android:background="@drawable/toggle_button"
+            android:fontFamily="@font/alegreya_sans_sc_light"
+            android:textAllCaps="false"
+            android:textOff="fri"
+            android:textOn="fri"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <ToggleButton
+            android:id="@+id/saturdayToggleButton"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
+            android:alpha="0.7"
+            android:background="@drawable/toggle_button"
+            android:fontFamily="@font/alegreya_sans_sc_light"
+            android:textAllCaps="false"
+            android:textOff="sat"
+            android:textOn="sat"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <ToggleButton
+            android:id="@+id/sundayToggleButton"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="2dp"
+            android:alpha="0.7"
+            android:background="@drawable/toggle_button"
+            android:fontFamily="@font/alegreya_sans_sc_light"
+            android:textAllCaps="false"
+            android:textOff="sun"
+            android:textOn="sun"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+    </androidx.gridlayout.widget.GridLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/finalAddMedicine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:alpha="0.7"
+        android:background="@drawable/layout_edit_text_1"
+        android:fontFamily="@font/alegreya_sans_sc_light"
+        android:minWidth="150dp"
+        android:minHeight="50dp"
+        android:text="add medicine"
+        android:textAllCaps="false"
+        android:textColor="#272932"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gridLayout2" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

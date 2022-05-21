@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367084065972",
+    "project_id": "trackinjectv2",
+    "storage_bucket": "trackinjectv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367084065972:android:e2f85bc57451abd1cbb3e1",
+        "android_client_info": {
+          "package_name": "com.example.trackinjectv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367084065972-b7ssb29e29mrie9abh0oibn3badn7ebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsw9TsRy0Jto2huA9G_kJILzTY81Y0faI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367084065972-b7ssb29e29mrie9abh0oibn3badn7ebs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
