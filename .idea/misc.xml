@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-anydpi/ic_action_email.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-anydpi/ic_action_email_logo.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-anydpi/ic_action_face.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-anydpi/ic_action_first_last_name_logo.xml" value="0.265625" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-anydpi/ic_action_lock_closed.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-anydpi/ic_action_lock_open.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-anydpi/ic_action_open_password_logo.xml" value="0.265625" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-anydpi/ic_action_password_logo.xml" value="0.265625" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-anydpi/ic_action_user.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-anydpi/ic_action_user_logo.xml" value="0.265625" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-v24/ic_thumb_switch.xml" value="0.265625" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable-v24/ic_track_switch.xml" value="0.265625" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable/button_main_menu.xml" value="0.265625" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable/gradient_center.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable/gradient_end.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable/gradient_start.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable/ic_pill_drawable.xml" value="0.265625" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable/layout_edit_text_1.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable/layout_pill.xml" value="0.265625" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable/round_add_button.xml" value="0.265625" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/drawable/toggle_button.xml" value="0.3723076923076923" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/layout/activity_add_medicine.xml" value="0.22" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/layout/activity_forgot_password.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/layout/activity_main_menu.xml" value="0.25" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/layout/activity_medicne.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/layout/activity_register.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/layout/activity_view_update_medicine.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/fredj/AndroidStudioProjects/TrackInjectV2/app/src/main/res/layout/layout_medicine_list.xml" value="0.24947916666666667" />
+<<<<<<< Updated upstream
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/drawable-anydpi/ic_action_plus.xml" value="0.353125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/drawable/button_main_menu.xml" value="0.15" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/drawable/custom_time_picker.xml" value="0.353125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/drawable/ic_pills_drawable.xml" value="0.353125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/drawable/layout_edit_text_1.xml" value="0.353125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/drawable/main_menu_color.xml" value="0.353125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/drawable/round_add_button.xml" value="0.353125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/drawable/time_picker_background.xml" value="0.353125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/drawable/toggle_button.xml" value="0.353125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_add_medicine.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_forgot_password.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_injections_map.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_injections_map_acrivity.xml" value="0.5" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_injections_section_actitvity.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_main_menu.xml" value="0.33" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_medicne.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_pick_occurence.xml" value="0.31614583333333335" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_pick_occurrence.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_register.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_set_time.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_view_update_medicine.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/add_injection_dialog.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/layout_calendar.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/layout_calendar_dialog.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/layout_injections_list.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/layout_medicine_list.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/layout_time_list.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/time_picker_background.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/update_delete_injection.xml" value="0.3328125" />
+        <entry key="..\:/Users/fredj/OneDrive/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/update_delete_injection_dialog.xml" value="0.3328125" />
+=======
+        <entry key="..\:/Users/hp/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_set_time.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/hp/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/activity_view_update_medicine.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/hp/Documents/GitHub/TrackInject-V2/TrackInjectV2/app/src/main/res/layout/layout_calendar_dialog.xml" value="0.14270833333333333" />
+>>>>>>> Stashed changes
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
